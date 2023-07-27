@@ -1,3 +1,2 @@
-print("Hello WOlrd")
-print("python class")
-print("dasun")
+age = 30
+print(type(age))
